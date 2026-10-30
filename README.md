@@ -45,7 +45,9 @@ Estou organizando meus primeiros projetos por aqui. Acompanhe os repositórios p
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ryanmangeth&layout=compact)
+<div align="center">
+  <img src="https://gitpeak.vercel.app/api/readme?username=ryanmangeth&theme=Tokyo+Night" alt="GitHub Statistics" />
+</div>
 
 
 </div>
