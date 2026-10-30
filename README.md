@@ -45,7 +45,7 @@ Estou organizando meus primeiros projetos por aqui. Acompanhe os repositórios p
 
 ### Top Languages
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ryanmangeth&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmangeth&layout=compact&theme=default&hide_border=true)
 
 
 </div>
