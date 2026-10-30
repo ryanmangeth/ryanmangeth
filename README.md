@@ -1,4 +1,4 @@
-<h1>Matheus Cerasi Rodrigues</h1>
+<h1>Ryan Mangeth de Lima</h1>
 
 Computer Science Student | Exploring Software Development
 
@@ -11,9 +11,9 @@ Computer Science Student | Exploring Software Development
 
 <h2>About me | Sobre mim</h2>
 
-I’m an undergraduate Computer Science student at Universidade Cidade de São Paulo (UNICID), currently in my second semester. I’m exploring different areas of technology and building a foundation in web development and databases. I’m looking for an internship where I can learn from experienced professionals, collaborate on real projects, and continue growing as a developer.
+I’m an undergraduate Computer Science student at Universidade Cidade de São Paulo (UNICID), currently in my second semester. I’m developing my skills in programming, web development, databases, and software fundamentals, while exploring areas such as cybersecurity, Artificial Intelligence, and automation. I’m particularly interested in understanding how technology can solve real-world problems and building practical solutions. I’m seeking an internship opportunity to gain hands-on experience, contribute to meaningful projects, and grow as a technology professional, with a long-term goal of working in the global tech industry.
 
-Sou estudante de Ciência da Computação na Universidade Cidade de São Paulo (UNICID), atualmente no segundo semestre. Estou explorando diferentes áreas da tecnologia e desenvolvendo conhecimentos em desenvolvimento web e bancos de dados. Busco uma oportunidade de estágio para aprender com profissionais experientes, colaborar em projetos reais e evoluir como desenvolvedor.
+Sou estudante de Ciência da Computação na Universidade Cidade de São Paulo (UNICID), atualmente no segundo semestre. Estou desenvolvendo meus conhecimentos em programação, desenvolvimento web, bancos de dados e fundamentos de software, enquanto exploro áreas como cibersegurança, Inteligência Artificial e automação. Tenho interesse especial em compreender como a tecnologia pode solucionar problemas reais e desenvolver soluções práticas. Busco uma oportunidade de estágio para adquirir experiência profissional, contribuir com projetos relevantes e evoluir na área de tecnologia, tendo como objetivo de longo prazo construir uma carreira no mercado internacional.
 
 <h2>Technologies | Tecnologias</h2>
 
