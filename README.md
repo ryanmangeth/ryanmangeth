@@ -59,7 +59,7 @@ Estou organizando meus primeiros projetos por aqui. Acompanhe os repositórios p
 <h2>Let's connect | Vamos conversar</h2>
 
 <p>
-  <a href="a href="https://www.linkedin.com/in/ryanmangeth" target="_blank">
+  <a href="https://www.linkedin.com/in/ryanmangeth" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">">
   </a>
 </p>
