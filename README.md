@@ -60,18 +60,18 @@ Estou organizando meus primeiros projetos por aqui. Acompanhe os repositórios p
 
 <p>
   <a href="https://www.linkedin.com/in/ryanmangeth" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 <p>
-  <a href="mailto:matheuscerasi.1801@gmail.com">
+  <a href="mailto:ryan.mangeth@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/matheuscerasi">
+  <a href="https://github.com/ryanmangeth">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
